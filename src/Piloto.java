@@ -5,4 +5,6 @@ public class Piloto {
     int vitrias;
     float peso;
     double recordepessoal;
+    int vitorias;
+    int titulos;
 }

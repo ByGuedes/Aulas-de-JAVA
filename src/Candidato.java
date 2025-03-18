@@ -6,3 +6,4 @@ public class Candidato {
     String endereco;
     double pretencaosalarial;
     double tempodeexperiencia;
+}
